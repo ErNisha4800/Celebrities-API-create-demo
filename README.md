@@ -1,18 +1,19 @@
-API create 
+Celebrities-API-create-demo.git
 API create in celebrity database using 
+Celebrities API create demo databaae create in mongodb use in api create
 To open the current build in your browser on Github Pages:
 
-https://scratchfoundation.github.io/scratch-gui/
 
+https://github.com/ErNisha4800/
 Installation
 This requires you to have Git and Node.js installed.
 
 In your own node environment/application:
 
-npm install https://github.com/scratchfoundation/scratch-gui.git
+npm install https://github.com/ErNisha4800/Celebrities-API-create-demo.git
 If you want to edit/play yourself:
 
-git clone https://github.com/scratchfoundation/scratch-gui.git
+git clone  https://github.com/ErNisha4800/Celebrities-API-create-demo.git
 cd api create
 npm install
 You may want to add --depth=1 to the git clone command because there are some large files in the git repository history.
